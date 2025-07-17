@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files (if you decide not to track large raw data later)
+# For now, you've uploaded them. If they get very large, you might remove these:
+# *.csv
+# *.xlsx
+
+# Models
+*.joblib
+*.pkl
+
+# Environment
+.env
+venv/
